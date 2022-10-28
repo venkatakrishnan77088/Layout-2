@@ -1,0 +1,341 @@
+.wrapper{
+	width:70%;
+	margin:auto;
+}
+.header, .banner
+{
+	background-color:#37517e;
+}
+.header .header-fc{
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .logo{
+	width:182px;
+	height:61px;
+	background-color:#37517e;
+}
+.header .header-fc .navi{
+	width:750px;
+	height:61px;
+	background-color:#37517e;
+}
+.banner-fc {
+	display:flex;
+	justify-content:space-between;
+}
+.banner .banner-fc .banner-text{
+	width:660px;
+	height:527px;
+	background-color:#37517e;
+	
+}
+.banner .banner-fc .banner-image{
+	width:636px;
+    height:527px;
+	background-color:#F5B041;
+}
+
+
+
+.about{
+	background-color:white;
+}
+.about-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.about-fc .about-heading{
+	width:100%;
+	text-align:center;
+	background-color:white;
+	height:58px;
+}
+.about-fc  .about-text{
+	width:48%;
+	height:172px;
+	background-color:gray;
+}
+.clints{
+	background-color:white;
+}
+.clints .clints-fc{
+	display:flex;
+	justify-content:space-evenly;
+}
+.clints .clints-fc .clints-text{
+	width:100%;
+	height:68px;
+}
+.faq{
+	background-color:white;
+}
+
+.faq-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#94d9fb;
+}
+.faq-fc .faq-text{
+	width:556px;
+	height:554px;
+}
+.faq-fc .faq-image{
+	width:843px;
+	height:554px;
+	
+}
+.feedback{
+background-color:white;
+}
+.feedback-fc{
+	display:flex;
+	justify-content:space-beween;
+	
+}
+.feedback .feedback-fc .fb-image{
+	width:636px;
+	height:351px;
+	background-color:yellow;
+
+}
+.feedback .feedback-fc .fb-text{
+	height:351px;
+    width:660px;
+	background-color:green;
+}
+.service{
+	background-color:white;
+	text-align:center;
+	height:58px;
+	width:48%;
+}
+.service .service-fc{
+	display:fex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
+.service .service-fc .heading{
+	text-align:center;
+	width:100%;
+	height:58px;
+	
+}
+.service .service-fc .service-para{
+	width:100%;
+	height:48px;
+}
+.service .service-fc .text{
+	width:25%;
+    height:256px;
+	background-color:#D98880;
+}
+.call-to-action{
+	background-color:#37517e;
+	
+}
+.call-action-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:
+}
+.call-action-fc .call-text{
+	width:556px;
+    height:106px;
+	background-color:#2f4466;
+}
+.call-action-fc .call-button{
+	width:330px;
+    height:106px;
+	background-color:#2f4466;
+	text-align:right;
+}
+}
+.portfolio{
+background-color:#37517e;
+}
+.portfolio .portfolio-fc{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.portfolio .portfolio-fc .portfolio-heading{
+	width:100%;
+	height:58px;
+	text-align:center;
+}
+ .portfolio-fc .portfolio-paratxet{
+    width:100%;
+	height:48;
+	background-color:yellow;
+}
+ .portfolio-fc .portfolio-text{
+	width:100%;
+	height:51px;
+	background-color:green;
+}
+.portfolio-fc .portfolio-image-fc{
+	display:flex;
+	justify-content:space-evenly;
+   height:1287px;
+   width:100%;
+   background-color:yellow;
+}
+.portfolio-uniquephoto{
+	width:33.33%;
+	height:243px;
+}
+.team{
+	background-color:white;
+}
+.team-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#935116;
+}
+.team-fc .team-heading{
+	width:100%;
+	height:58px;
+	color:blue;
+	text-align:center;
+}
+.team-fc .team-para{
+	width:100%;
+	height:48px;
+}
+.team-profile{
+	background-color:white;
+	
+}
+.team-profile .team-profile-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#9FE2BF;
+	flex-wrap:wrap;
+	
+}
+.team-profile-fc .person{
+	width:48%;
+	height:234px;
+	text-align:center;
+	
+}
+.price{
+	background-color:white;
+}
+.price-fc{
+	display:flex;
+	background-color:#CCCCFF;
+	flex-wrap:wrap;
+}
+.price-fc .price-heading{
+	height:58px;
+	width:100%;
+	text-align:center;
+}
+.price-fc .price-para{
+	width:100%;
+	height:48;
+}
+.business-plan{
+	background-color:white;
+}
+.business-fc{
+	display:flex;
+	background-color:#40E0D0;
+	justify-content:space-evenly;
+}
+.business-fc .price-plan{
+	width:33.33%;
+	height:574px;
+	text-align:center;
+}
+.FAQ{
+	background-color:white;
+}
+.FAQ-fc{
+	display:flex;
+	background-color:#CCCCFF;
+	flex-wrap:wrap;
+}
+.FAQ-fc .FAQ-heading{
+	width:100%;
+	height:58;
+	text-align:center;
+}
+.FAQ-fc .FAQ-para{
+	width:100%;
+	height:58;
+	padding-left:50px;
+}
+.faq-ques-fc{
+display:flex;
+flex-wrap:wrap;
+}
+.faq-ques-fc .FAQ-ques{
+width:100%;
+height:64px;
+padding-left:50px;
+}	
+.contact{
+	background-color:white;
+}
+.contact-fc{
+display:flex;
+background-color:#FF7F50;
+flex-wrap:wrap;
+}
+.contact-fc .contact-heading{
+	text-align:center;
+	color:blue;
+	width:100%;
+	height:58px;
+}
+.contact-fc .contact-para{
+	height:48px;
+	width:100%;
+}
+.contact-detail{
+	background-color:white;
+}
+.contact-detail-fc{
+	display:flex;
+	justify-content:space-beween;
+	flex-wrap:wrap;
+	background-color:#DE3163;
+}
+.contact-detail-fc .contact-detail-heading{
+	width:100%;
+	height:58px;
+	text-align:center;
+}
+.contact-detail-fc .contact-detail-para{
+	width:48%;
+	height:615px;
+	text-align:center;
+}
+.join-our-news{
+	background-color:white;
+}
+.joinstyle{
+	margin-left:342px;
+	margin-right:342px;
+	margin-top:50px;
+	margin-bottom:20px;
+	border:2px solid red;
+	padding:25px;
+}
+.about-website{
+	background-color:white;
+}
+.about-website-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#FF7F50;
+}
+.website-detail{
+	width:20%;
+	height:219px;
+}
